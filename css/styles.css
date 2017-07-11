@@ -129,6 +129,7 @@ a.box {
 a.box:hover {
  	color: #4D2100;
  	text-decoration: none;
+ 	transform: scale(1.02);
 }
 
 footer {
