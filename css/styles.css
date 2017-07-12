@@ -138,3 +138,24 @@ footer {
 	min-width: 480px;
 	background-color: #FFA763;
 }
+
+@media (max-width: 480px) {
+	.boxes .box {
+		width: 95%;
+		margin: 5px auto;
+		/* margin: 0; */
+	}
+
+	.boxes {
+		margin: 0;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 768px) {
+	.boxes .box {
+		width: 44.5%
+	}
+}
+
+
+
