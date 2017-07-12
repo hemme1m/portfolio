@@ -100,7 +100,7 @@ p.copyright {
 }
 
 .boxes .box {
- 	display: inline-block;
+ 	float: left;
  	width: 28%;
  	margin: 1.25% 0 1.25% 2.25%;
  	border: 1px solid black;
