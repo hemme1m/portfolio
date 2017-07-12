@@ -99,7 +99,7 @@ p.copyright {
   	/*border: 1px solid black; */
 }
 
-.boxes .box {
+.box {
  	float: left;
  	width: 28%;
  	margin: 1.25% 0 1.25% 2.25%;
@@ -142,7 +142,7 @@ footer {
 @media (max-width: 480px) {
 	.boxes .box {
 		width: 95%;
-		margin: 5px auto;
+		margin: 1.25%;
 		/* margin: 0; */
 	}
 
@@ -153,9 +153,17 @@ footer {
 
 @media (min-width: 481px) and (max-width: 768px) {
 	.boxes .box {
-		width: 44.5%
+		width: 44.5%;
+		margin: 1.25%;
 	}
 }
+
+/* @media (min-width: 769px) {
+	.boxes .box {
+		width: 28.5%;
+		margin: 1.25%;
+	}
+} */
 
 
 
