@@ -107,6 +107,7 @@ p.copyright {
 }
 
 a.box {
+	text-align: center;
  	padding: 1.25%;
  	vertical-align: top;
  	text-decoration: none;
